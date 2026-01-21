@@ -172,24 +172,6 @@ Ce projet suit les conventions et la structure recommandées par la documentatio
 - **Documentation :** https://tailwindcss.com/docs
 - **Configuration :** https://tailwindcss.com/docs/configuration
 
-## Captures d'Écran
-
-### Page d'Accueil
-
-![Liste des Biens](screenshots/home.png)
-
-### Détail du Bien et Réservation
-
-![Formulaire de Réservation](screenshots/booking.png)
-
-### Panneau d'Administration - Biens
-
-![Admin Biens](screenshots/admin-properties.png)
-
-### Panneau d'Administration - Réservations
-
-![Admin Réservations](screenshots/admin-bookings.png)
-
 ## Fonctionnalités de Sécurité
 
 - Validation des dates de réservation
